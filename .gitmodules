@@ -1,6 +1,0 @@
-[submodule "themes/ananke"]
-	path = themes/ananke
-	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
-[submodule "themes/alexa-portfolio"]
-	path = themes/alexa-portfolio
-	url = https://github.com/Bonzdev/alexa-portfolio.git
