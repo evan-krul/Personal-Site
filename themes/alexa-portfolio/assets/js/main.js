@@ -54,18 +54,18 @@ if(selectedTheme){
      localStorage.setItem('selected-icon',getCurrentIcon());
  })
  // end dark theme
- // toggle menu
- const navMenu = document.getElementById('nav-menu'),
-        navToggle = document.getElementById('nav-toggle'),
-        navClose = document.getElementById('nav-close');
- if(navToggle){
-     navToggle.addEventListener('click',()=>{
-         navMenu.classList.add('show-menu');
-     })
- }
-  if(navClose){
-     navClose.addEventListener('click',()=>{
-         navMenu.classList.remove('show-menu');
-     })
- }
- // end toggle menu
+//  // toggle menu
+//  const navMenu = document.getElementById('nav-menu'),
+//         navToggle = document.getElementById('nav-toggle'),
+//         navClose = document.getElementById('nav-close');
+//  if(navToggle){
+//      navToggle.addEventListener('click',()=>{
+//          navMenu.classList.add('show-menu');
+//      })
+//  }
+//   if(navClose){
+//      navClose.addEventListener('click',()=>{
+//          navMenu.classList.remove('show-menu');
+//      })
+//  }
+//  // end toggle menu
