@@ -1,0 +1,22 @@
+baseURL = "https://krul.ca/"
+languageCode = "en-ca"
+title = "Evan Krul"
+theme = "alexa-portfolio"
+enableRobotsTXT = true
+
+[params]
+	# favicon = "/images/fav.png"
+	home_title = "Evan Krul"
+	home_subtitle = "MPhil UNSW 2022 - "
+	home_description = "Bsc. Software Engineering UCalgary 2017 - 2022"
+	github = "https://github.com/evan-krul"
+	linkedin = "https://www.linkedin.com/in/evankrul/"
+	# dribbble = "https://dribbble.com/RainMustbeDark"
+	# phone = "0812"
+	email = "evan+personalsite@krul.ca"
+	location = "Sydney, Australia"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
