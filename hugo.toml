@@ -7,8 +7,9 @@ enableRobotsTXT = true
 [params]
 	# favicon = "/images/fav.png"
 	home_title = "Evan Krul"
-	home_subtitle = "MPhil UNSW 2022 - "
-	home_description = "Bsc. Software Engineering UCalgary 2017 - 2022"
+	home_subtitle = "PhD UNSW 2024 - "
+	home_description_1 = "MPhil UNSW 2022 - 2024"
+	home_description_2 = "Bsc. Software Engineering UCalgary 2017 - 2022"
 	github = "https://github.com/evan-krul"
 	linkedin = "https://www.linkedin.com/in/evankrul/"
 	scholar = "https://scholar.google.com/citations?user=6Pln4ZwAAAAJ"
